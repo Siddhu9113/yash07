@@ -1,0 +1,116 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    /* background-image: url(wallpaper2you_228168.jpg); */
+    background-size: cover;
+    background-position: end;
+}
+
+.wrapper{
+    height: 70%;
+    width: 70%;
+    background-color: beige;
+    display: flex;
+   margin-top:10vw ;
+   margin-left: 15vw;
+}
+
+.div3 {
+    height: 100%;
+    width: 10%;
+    background-color: rgb(22, 22, 22);
+    margin-bottom: 2vw ;
+}
+.div1{
+    height: 100%;
+    width: 50%;
+    background-image: url(Picsart_25-03-12_15-01-31-930.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: ;
+}
+
+.div1 h1{
+    margin-top: 1vw;
+    margin-left: 17vw;
+    font-family: Arial, Helvetica, sans-serif;
+    /* margin-left: 15vw; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    color: rgb(43, 42, 42);
+}
+
+.div1 p{
+    /* margin-bottom: 20vw; */
+    margin-left: 24vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(43, 42, 42);
+}
+
+.sid{
+    margin-bottom: 20vw;
+}
+.sid img {
+    height: 100px;
+    margin-left: 22vw;
+
+}
+
+
+
+.div3 h1{
+    color: aqua;
+    margin-left: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.r1{
+    height: 70%;
+    width: 100%;
+   /* background-color: blue; */
+   /* padding: 3vw; */
+}
+
+.r2{
+
+    height: 30%;
+    width: 100%;
+}
+.r1 i{
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(45, 45, 45);
+    font-size: 2vw;
+   
+}
+
+.div2{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(0, 0, 0);
+}
+
+.div2 h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2vw;
+    font-size: 3vw;
+}
+
+.div2 p{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2vw;
+}
+
+.div2 h6{
+    color: rgb(165, 165, 165);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+    margin-left: 2vw;
+}
+
+hr{
+    color: rgb(165, 165, 165);
+    margin-left: 2vw;
+}
